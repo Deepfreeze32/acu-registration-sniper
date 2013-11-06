@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Registration Sniper
 // @namespace  http://use.i.E.your.homepage/
-// @version    2.0
+// @version    2.5
 // @description  Registers user for classes in under a second
 // @include https://jada.acu.edu:4445/pls/ssbprod/*
 // @copyright  2012+, Evan Hopkins, Antony Liang, Travis Cramer

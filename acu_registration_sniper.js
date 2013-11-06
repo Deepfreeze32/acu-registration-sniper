@@ -27,7 +27,7 @@ if(window.location.href == 'https://jada.acu.edu:4445/pls/ssbprod/bwskfreg.P_Alt
     var currentHour = currentDate.getHours();
         
     //continuously refreshes the page until the it is time
-    if((currentHour <= registrationHour)){
+    if((currentHour < registrationHour)){
         //console.log("Current time: " + currentHour);
         //console.log("Registration time: " + registrationHour);
         location.reload();
